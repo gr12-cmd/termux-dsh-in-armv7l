@@ -1,0 +1,1 @@
+# termux-dsh-in-armv7l
