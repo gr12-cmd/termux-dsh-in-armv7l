@@ -29,5 +29,5 @@
 | `koffi` | `statx()` 问题，需要 target API 30 | 🟡 待测 |
 | `sharp` | 无 android-arm64 预编译包 | 🟡 待测 |
 
-##安装
+## 安装
 
