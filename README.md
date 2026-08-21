@@ -30,4 +30,9 @@
 | `sharp` | 无 android-arm64 预编译包 | 🟡 待测 |
 
 ## 安装
-
+输入命令：
+```bash
+pkg install nodejs git
+git clone https://github.com/gr12-cmd/termuux-dsh-in-armv7l.git
+```
+小提示：国内用户可以用`https://ghproxy.net/https://github.com/gr12-cmd/termux-dsh-in-armv7l.git`加速
