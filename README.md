@@ -34,5 +34,7 @@
 ```bash
 pkg install nodejs git
 git clone https://github.com/gr12-cmd/termuux-dsh-in-armv7l.git
+cd termux-dsh-in-armv7l/script
+bash install.sh
 ```
 小提示：国内用户可以用`https://ghproxy.net/https://github.com/gr12-cmd/termux-dsh-in-armv7l.git`加速
